@@ -1,0 +1,50 @@
+{
+    "SampleA": {
+        "values": [
+            10,
+            12,
+            14,
+            16
+        ],
+        "average": 13.0,
+        "min": 10,
+        "max": 16,
+        "growth_rate": 2
+    },
+    "SampleB": {
+        "values": [
+            5,
+            7,
+            9,
+            11
+        ],
+        "average": 8.0,
+        "min": 5,
+        "max": 11,
+        "growth_rate": 2
+    },
+    "SampleC": {
+        "values": [
+            3,
+            4,
+            6,
+            8
+        ],
+        "average": 5.25,
+        "min": 3,
+        "max": 8,
+        "growth_rate": null
+    },
+    "SampleD": {
+        "values": [
+            20,
+            22,
+            24,
+            26
+        ],
+        "average": 23.0,
+        "min": 20,
+        "max": 26,
+        "growth_rate": 2
+    }
+}
